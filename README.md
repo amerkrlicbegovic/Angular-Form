@@ -1,6 +1,6 @@
-## angular2-seed
+## angular-form
 
-A simple starter project demonstrating the basic concepts of Angular 2.
+A simple starter project demonstrating the basic concepts of Angular 2 forms.
 
 
 ### Usage
